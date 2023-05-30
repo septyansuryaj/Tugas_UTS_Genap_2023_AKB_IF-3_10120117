@@ -1,1 +1,3 @@
-# Tugas_UTS_Genap_2023_AKB_IF-3_10120117
+# 10120117_UTS_AKB
+Pengganti Tugas UTS Matakuliah AKB
+Aplikasi Sederhana Untuk Menambah Kontak Teman dengan Java Android Studio
